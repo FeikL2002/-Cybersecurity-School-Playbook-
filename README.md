@@ -14,3 +14,17 @@
 ● │ ├── Symmetric_vs_Asymmetric.md
 ● │ ├── Hashing_Algorithms.md
 ● │── Incident_Response/
+ │ ├── IR_Plan_Template.md
+● │ ├── Log_Analysis_Guide.md
+● │── Malware_Analysis/
+● │ ├── Types_of_Malware.md
+● │ ├── Malware_Detection_Techniques.md
+● │── Compliance_Governance/
+● │ ├── HIPAA_GDPR_Overview.md
+● │ ├── PCI_DSS_NIST.md
+● │── Scripts/
+● │ ├── Password_Cracking_Tools.md
+● │ ├── Log_Parsing_Scripts.md
+● │── References/
+● │ ├── Security_Blogs.md
+● │ ├── Certification_Study_Guide.md
