@@ -4,9 +4,8 @@
 Health Insurance Portability and Accountability Act (HIPAA):A federal law designed to protect patient health information.
 
 Gramm-Leach-Bliley Act (GLBA):A federal law aimed at safeguarding consumers' nonpublic personal information.
-Payment Card Industry Data Security Standard 
 
-(PCI DSS):A set of security standards for companies handling credit card data.
+Payment Card Industry Data Security Standard (PCI DSS):A set of security standards for companies handling credit card data.
 
 General Data Protection Regulation (GDPR):A European Union law that ensures the protection of personal data for EU citizens.
 
