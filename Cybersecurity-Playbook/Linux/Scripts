@@ -1,1 +1,41 @@
 
+In Linux, scripts are text files containing a sequence of commands that automate tasks, reducing manual effort and repetitive typing.
+What Are Linux Scripts?
+Linux scripts function similarly to Windows batch files, executing a set of predefined commands in sequence.
+Purpose of Linux Scripts
+Scripts are used to automate processes, launch programs, and execute multiple actions in a specific order.
+Shell Scripting
+The most common type of Linux script is a shell script, which runs commands using a shell interpreter like Bash.
+Benefits of Using Scripts
+Automation – Eliminates repetitive manual tasks.
+
+
+Efficiency – Executes multiple commands with a single script.
+
+
+Organization – Structures complex operations in a systematic way.
+
+
+How to Create and Run a Script
+Create a text file with commands (e.g., my_script.sh).
+
+
+Make the script executable: chmod +x my_script.sh.
+
+
+Run the script: ./my_script.sh.
+
+
+Common Uses of Scripts
+Automating system backups.
+
+
+Running commands at login.
+
+
+Compiling code efficiently.
+
+
+Setting up a custom program environment.
+
+
