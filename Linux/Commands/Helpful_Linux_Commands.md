@@ -4,64 +4,38 @@ File and Directory Management:
 ls: Lists files and directories in the current location.
 
 
-cd: Navigates between directories.
-
-
+Basic Navigation & Directory Management:
+ls: Lists files and directories within the current directory.
+cd: Changes the current directory.
+pwd: Prints the current working directory.
 mkdir: Creates a new directory.
+rmdir: Removes an empty directory.
+rm: Removes files or directories. 
 
 
-rmdir: Deletes an empty directory.
-
-
+File Management: 
+touch: Creates a new file or updates an existing file's timestamp.
 cp: Copies files or directories.
-
-
-mv: Moves or renames files and directories.
-
-
-rm: Deletes files or directories.
-
-
-pwd: Displays the full path of the current directory.
-
-
-touch: Creates a new, empty file.
-
-
-Viewing and Editing Content:
+mv: Moves or renames files or directories.
 cat: Displays the contents of a file.
+echo: Prints text to the terminal. 
 
 
-more: Views file content page by page.
+Text Manipulation & Searching:
+grep: Searches for patterns within files.
+head: Displays the first few lines of a file.
+tail: Displays the last few lines of a file.
+diff: Shows the differences between two files. 
 
 
-less: Similar to more, but with additional navigation options.
+System Information & Control:
+sudo: Executes a command with superuser privileges.
+whoami: Displays the current user's name.
+uname: Displays system information.
+ps: Displays information about running processes.
+kill: Terminates a process.
+df: Displays disk space usage.
+du: Estimates disk space usage for files and directories. 
 
-
-grep: Searches for specific patterns within files.
-
-
-Permissions and Ownership:
-chmod: Modifies file permissions.
-
-
-chown: Changes file ownership.
-
-
-Networking:
-ping: Checks network connectivity to a specified host.
-
-
-Other Useful Commands:
-find: Locates files and directories.
-
-
-tar: Creates and extracts compressed archives.
-
-
-man: Displays the manual page for a command.
-
-
-history: Shows previously executed commands.
 
 
