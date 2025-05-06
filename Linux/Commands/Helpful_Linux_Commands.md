@@ -38,4 +38,17 @@ df: Displays disk space usage.
 du: Estimates disk space usage for files and directories. 
 
 
-
+sar: Shows system activity (CPU, memory, disk I/O, etc.). 
+vmstat: Displays virtual memory statistics. 
+iostat: Shows disk I/O statistics. 
+atop: Provides a more detailed interactive process viewer than top. 
+htop: Interactive process viewer similar to top, but with more features and a better user interface. 
+pkill: Like pgrep, but allows you to kill processes by name or process ID. 
+find: A powerful command for finding files and directories based on various criteria, including by name, type, modification time, etc. 
+xargs: Takes output from another command and uses it as input for another command. 
+at: Schedules commands to run at a specific time. 
+netstat: Shows network connections, routing tables, and network interface information. 
+ss: Like netstat, but often used as a more modern replacement. 
+tcpdump: A powerful command-line packet analyzer. 
+ip: Utility for managing network interfaces and addresses. 
+traceroute: Traces the route packets take to reach a destination. 
