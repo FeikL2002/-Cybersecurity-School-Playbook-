@@ -52,3 +52,23 @@ ss: Like netstat, but often used as a more modern replacement.
 tcpdump: A powerful command-line packet analyzer. 
 ip: Utility for managing network interfaces and addresses. 
 traceroute: Traces the route packets take to reach a destination. 
+
+Processes and Users:
+ps: Displays information about running processes.
+kill: Kills running processes by process ID.
+useradd: Adds a new user.
+usermod: Modifies existing user accounts.
+who: Displays a list of currently logged-in users.
+last: Shows the history of logged-in users.
+pgrep: Searches for processes by name or other criteria.
+pstree: Displays a tree-like representation of running processes.
+su: Switch user, typically to root. 
+
+ Utilities and Tools:
+wget: Downloads files from the web.
+curl: Another command-line utility for transferring data (like wget).
+ssh: Secure Shell, used for remote logins.
+sed: Stream editor, used for text manipulation.
+grep: Searches for text patterns in files. 
+
+tree: The tree command is used to display a hierarchical view of directories and files in a tree-like format, which is useful for visualizing the structure of directories and their contents
