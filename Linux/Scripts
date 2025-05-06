@@ -149,3 +149,10 @@ Mymessage="Call me"
 
 Important! The above script is meant for testing purposes only as it won’t work normally with services like Gmail. We recommend using PHPMailer instead
 
+nano maintenance.sh - Keeping the system and all of its applications up to date is crucial. You can create a bash script to do it. Mind that this script requires root privileges. First, create the bash script file
+
+Fill it with these lines - 
+#!/bin/bash
+apt-get update
+apt-get upgrade
+
