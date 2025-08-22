@@ -6,6 +6,8 @@ We covered this week Key terms in cybersecurity also types of attackers we could
 **Artifacts:**  
 ]
 ](https://github.com/FeikL2002/Cybersecurity-Playbook-/blob/9cb1baceb453c228a8f05f537efda8aae4b19c64/Cybersecurity-Playbook/%20cybr-1100-security-awareness/week1.md) 
+
+
 **Reflection:**  
 One type of cyberattack I have personally experienced is a phishing attack. This happened in June 2022, shortly after I graduated high school. The device that was targeted was my Xbox Series X gaming system. At first, I did not fully realize what had happened, but the attack caused serious damage to the system’s RAM. From my understanding, this may have been similar to a “rowhammer” attack, which manipulates computer memory. Unfortunately, there was nothing I could do on my own to fix the damage, because rebuilding or repairing the Xbox would have been extremely expensive.
 Looking back, I know there are precautions I could have taken to reduce the risk. For example, I could have used a stronger firewall, installed reliable antivirus protection, or been more cautious about suspicious links and messages. Phishing attacks often work because they trick users into letting their guard down, and gaming consoles can be easy targets. People typically log in to play for fun, without thinking about the dangers of the online world.
