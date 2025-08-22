@@ -1,8 +1,7 @@
 # Week 1 – Introduction to Security Awareness
  
 **Description:**  
-We covered this week Key terms in cybersecurity also types of attackers we could be facing in this industry. We went over what building a security stragity learning how to block attacks,update defenses, minimize loses within a company. 
- 
+This week we covered key terms in cybersecurity and explored the different types of attackers we may face in the industry. We also discussed how to build a security strategy, including ways to block attacks, update defenses, and minimize losses within a company. 
 **Artifacts:**  
 ]
 ](https://github.com/FeikL2002/Cybersecurity-Playbook-/blob/9cb1baceb453c228a8f05f537efda8aae4b19c64/Cybersecurity-Playbook/%20cybr-1100-security-awareness/week1.md) 
@@ -16,4 +15,4 @@ This experience was an eye opener for me. It taught me that cyberattacks can hap
 
  
 **AI Use Note:**  
-I have used Chatgpt And Enovate AI, I used Chatgpt to proof read my work to give it another set of eyes over it i choose to never let ai do my work for me. I used Enovate AI to create AI videos. 
+I have used ChatGPT and Enovate AI. I used ChatGPT to proofread my work, giving me another set of eyes to review it, but I never rely on AI to do the work for me. I also used Enovate AI to create AI-generated videos.
