@@ -1,28 +1,6 @@
 
-  Major Internal Components (Lab 1)
-  
- A computer’s major internal parts include the motherboard, CPU, RAM, storage, PSU, and expansion cards.
-Motherboard: Central printed circuit board (PCB) that links and allows communication between all hardware components.
+The Role of Computer Hardware and Operating Systems in IT Support
 
-CPU (Central Processing Unit)
-A small square chip often called the “brain” of the computer. It executes instructions and performs the calculations necessary for running software.
-
-
-RAM (Random Access Memory)
-The system’s short-term memory where active data is stored for quick access by the processor.
-
-
-Storage Devices
-Includes solid-state drives (SSDs) and hard disk drives (HDDs). These provide long-term, non-volatile storage of programs and files.
-
-
-Power Supply Unit (PSU)
-Converts high-voltage AC from the wall into low-voltage DC needed by internal hardware.
-
-
-Expansion Cards
-Plug-in hardware that adds or enhances capabilities (e.g., graphics cards, sound cards, network adapters).
-
-
-ESD (Electrostatic Discharge) Precautions
- To protect sensitive components, always ground yourself, work on an anti-static mat, store parts in anti-static bags, disconnect power before handling, and avoid static-prone environments.
+   Information Technology support relies heavily on both computer hardware and operating systems, since these two elements form the foundation of any computing environment. Without reliable hardware and an effective operating system, IT support teams would struggle to diagnose issues, ensure system stability, and keep businesses running smoothly.Hardware provides the physical components that allow computers to perform tasks. This includes the processor (CPU), memory (RAM), storage devices, and peripherals such as printers or monitors. In IT support, understanding hardware is critical because many technical problems originate from malfunctioning or outdated components. For example, a failing hard drive may cause frequent system crashes, while insufficient memory can slow down applications. IT support professionals must be able to troubleshoot these issues, replace defective parts, and recommend appropriate upgrades to improve performance and reliability.On the other hand, operating systems (OS) serve as the bridge between hardware and users. They manage resources, coordinate applications, and provide the interface that people interact with daily. Whether it is Windows, macOS, or Linux, each operating system has its own structure, tools, and troubleshooting methods. IT support staff must be skilled in handling operating system issues such as corrupted files, driver conflicts, or system updates. They often configure security settings, install patches, and optimize system performance, ensuring that the OS runs efficiently and securely.
+The interaction between hardware and operating systems is where IT support truly becomes vital. For example, when new hardware is introduced, the OS must have compatible drivers installed. If compatibility problems occur, IT professionals must step in to resolve them. Additionally, IT support ensures that systems are tailored to meet organizational needs balancing performance, cost and security.
+In conclusion, the role of computer hardware and operating systems in IT support cannot be overstated. Hardware provides the essential physical infrastructure, while operating systems make that hardware usable. IT support professionals bridge the gap, ensuring both elements work together seamlessly.Their expertise keeps technology reliable, allowing businesses and individuals to operate efficiently in an increasingly digital world.
