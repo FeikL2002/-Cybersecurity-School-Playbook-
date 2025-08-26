@@ -1,3 +1,7 @@
+
+-Week 2- Network Components, Types, and Connections
+
+
 Summary:
        In the Week 2 module on Network Components, Types, and Connections, I learned how the structure of a network directly impacts both security and vulnerability. Understanding devices such as routers, switches, and firewalls gave me a clearer picture of how information travels and where risks can arise. For example, an unsecured Wi-Fi router or outdated switch can become an entry point for attackers to intercept or manipulate traffic. I also saw how different types of networks wired, wireless, LANs, and WANs present unique challenges. Wireless networks in particular pose risks, since attackers can attempt to eavesdrop on communications or exploit weak encryption protocols like WEP.
      This module connected back to personal cyber risks by showing me how easily an attacker can target individuals through their home or public networks. Using unsecured public Wi-Fi, for instance, exposes users to man-in-the-middle attacks where sensitive data such as login credentials can be stolen. It made me reflect on times I had connected to open networks without a second thought, not realizing the risks.
