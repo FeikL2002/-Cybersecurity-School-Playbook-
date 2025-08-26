@@ -1,5 +1,5 @@
 
-# Week 2- Network Components, Types, and Connections
+# Week 2 Network Components, Types, and Connections
 
 
 Summary:
