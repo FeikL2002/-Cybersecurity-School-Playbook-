@@ -1,36 +1,4 @@
-Case Project 2-2: Password Requirements
 
-Introduction
-  Passwords are the first line of defense against unauthorized access to information systems. Poor password practices expose organizations to security breaches, data theft, and compliance violations. This project outlines recommended password requirements that balance strong security with usability for end-users.
-
-  Proposed Password Requirements
-Minimum Length At least 12 characters.
-Longer passwords significantly reduce the risk of brute-force attacks.
-
-Must include at least three of the following categories:
-Uppercase letters (A–Z)
-Lowercase letters (a–z)
-Numbers (0–9)
-Special characters (!, @, #, $, %, etc.)
-Prohibited Passwords
-No reuse of the last five passwords.
-
- Passwords must not contain:
-The user’s name, username, or company name.
-Dictionary words or easily guessed sequences (e.g., “12345678” or “password”).
-
- Expiration and Rotation
-Passwords must be changed every 180 days.
-Exceptions: Service accounts with strong encryption and monitoring may use longer rotation periods.
-
- Multi-Factor Authentication (MFA)
-Strong passwords should be supplemented with MFA whenever possible (e.g., SMS code, authenticator app, or hardware token).
-
-  
-  Lockout Policy
-Account locked after five failed login attempts.
- 
- Lockout duration: 
-15 minutes or until reset by administrator.
+  After asking users to rank each password requirement on a scale of 1–5 (with 5 being most likely to follow), the results showed that most users were highly willing to adopt passphrases with 14 characters (average score: 4.5), as they found them easier to remember than complex random strings. Multi-factor authentication (MFA) also scored well (4.2), with many users already accustomed to using it for personal accounts. However, avoiding common words and personal information received a moderate score (3.7), as some admitted they might still be tempted to use memorable but less secure elements. The account lockout policy was ranked fairly high (4.0), as users recognized its importance, though a few worried about being locked out accidentally. The lowest-ranked requirement was regular password changes (2.8), with many users expressing frustration at frequent updates. Overall, the findings suggest that users are more willing to adopt long, memorable passphrases and MFA, but less enthusiastic about frequent mandatory changes, indicating that strong yet practical policies are the most effective.
 
 
