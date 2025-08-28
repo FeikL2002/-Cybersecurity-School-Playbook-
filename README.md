@@ -8,3 +8,5 @@ Resource Reference: Whenever I need a quick refresher or a deeper dive into a to
 Personalized Insights:  It reflects my  learning style, preferences, and any unique challenges I have  faced in my  networking journey. It allows me  to tailor my approach to learning based on my strengths and areas for improvement.
 
 Career Growth: My playbook is not just a study tool; it’s also an investment in my professional development. By following it and acquiring networking certifications or skills, I will boost my  confidence and open doors to more opportunities in the tech industry.
+
+kngjkrtgjrw;ngpjwrengjkgn4;g
