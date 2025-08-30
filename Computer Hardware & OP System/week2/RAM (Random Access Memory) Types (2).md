@@ -1,12 +1,13 @@
-# Lewis Joseph Feik 
+Lewis Joseph Feik 
 
-# Computer Hardware & OP System
+Computer Hardware & OP System
 
-# RAM Types, Storage Devices, and Motherboard Components
+RAM Types, Storage Devices, and Motherboard Components
 
 8/29/2025
----
-# ***RAM Types, Storage Devices, and Motherboard Components***
+
+
+***RAM Types, Storage Devices, and Motherboard Components***
 ---
 ### ***RAM (Random Access Memory) Types***
 *Random Access Memory (RAM) is the computer’s temporary memory, used while the system is running. Unlike storage, data in RAM is erased when 
