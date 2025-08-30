@@ -14,7 +14,7 @@ Used in CPU caches.
 Stores data using flip-flops (retains data as long as powered).
 
 
-DRAM (Dynamic RAM)
+# DRAM (Dynamic RAM)
 
 
 Slower, cheaper, used as main system memory.
@@ -23,7 +23,7 @@ Slower, cheaper, used as main system memory.
 Stores data using capacitors, needs refreshing thousands of times per second.
 
 
-Under DRAM, we have:
+# Under DRAM, we have:
 
 
 SDRAM (Synchronous DRAM) – Syncs with CPU clock, faster than plain DRAM.
@@ -42,7 +42,7 @@ Example: DDR4 is common in most PCs today, DDR5 in newer systems.
 Storage Devices – Differences
 Storage is permanent memory, unlike RAM.
 
-Types:
+# Types:
 HDD (Hard Disk Drive)
 
 
