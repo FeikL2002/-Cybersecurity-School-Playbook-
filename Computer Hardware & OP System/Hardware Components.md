@@ -1,5 +1,5 @@
 
-#RAM (Random Access Memory) Types
+# RAM (Random Access Memory) Types
 RAM is the computer’s temporary memory, used while the system is running. Data in RAM is erased when the power is turned off.
 Main Types:
  # SRAM (Static RAM)
