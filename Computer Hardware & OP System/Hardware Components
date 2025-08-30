@@ -1,1 +1,98 @@
 
+RAM (Random Access Memory) Types
+RAM is the computer’s temporary memory, used while the system is running. Data in RAM is erased when the power is turned off.
+Main Types:
+ # SRAM (Static RAM)
+
+
+Faster, more expensive.
+
+
+Used in CPU caches.
+
+
+Stores data using flip-flops (retains data as long as powered).
+
+
+DRAM (Dynamic RAM)
+
+
+Slower, cheaper, used as main system memory.
+
+
+Stores data using capacitors, needs refreshing thousands of times per second.
+
+
+Under DRAM, we have:
+
+
+SDRAM (Synchronous DRAM) – Syncs with CPU clock, faster than plain DRAM.
+
+
+DDR SDRAM (Double Data Rate SDRAM) – Transfers data on both rising & falling edges of clock. Generations include:
+
+
+DDR1, DDR2, DDR3, DDR4, DDR5 – Each newer version is faster and uses less power.
+
+
+Example: DDR4 is common in most PCs today, DDR5 in newer systems.
+
+
+
+Storage Devices – Differences
+Storage is permanent memory, unlike RAM.
+
+Types:
+HDD (Hard Disk Drive)
+
+
+Mechanical spinning disks.
+
+
+Large capacity (1TB+), cheaper.
+
+
+Slower (100–200 MB/s typical).
+
+
+SSD (Solid State Drive)
+
+
+No moving parts; uses flash memory.
+
+
+Much faster (500 MB/s to several GB/s).
+
+
+More expensive per GB.
+
+
+NVMe SSD (connected via PCIe instead of SATA)
+
+
+Very high speeds (up to 7000 MB/s).
+
+
+Common in modern laptops/desktops.
+
+
+Optical Discs (CD/DVD/Blu-ray)
+
+
+Use laser technology.
+
+
+Mostly obsolete now except in archives/media.
+
+
+Flash Drives & Memory Cards
+
+
+Portable, smaller capacity.
+
+
+Convenient but less durable than SSDs.
+
+
+
+
