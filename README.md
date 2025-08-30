@@ -9,4 +9,3 @@ Personalized Insights:  It reflects my  learning style, preferences, and any uni
 
 Career Growth: My playbook is not just a study tool; it’s also an investment in my professional development. By following it and acquiring networking certifications or skills, I will boost my  confidence and open doors to more opportunities in the tech industry.
 
-kngjkrtgjrw;ngpjwrengjkgn4;g
