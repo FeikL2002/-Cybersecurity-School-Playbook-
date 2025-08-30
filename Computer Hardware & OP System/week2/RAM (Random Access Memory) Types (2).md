@@ -1,7 +1,10 @@
-***Lewis Joseph Feik*** 
-*Computer Hardware & OP System* 
-*RAM Types, Storage Devices, and Motherboard Components*
-*8/29/2025*
+# Lewis Joseph Feik 
+
+# Computer Hardware & OP System
+
+# RAM Types, Storage Devices, and Motherboard Components
+
+8/29/2025
 ---
 # ***RAM Types, Storage Devices, and Motherboard Components***
 ---
